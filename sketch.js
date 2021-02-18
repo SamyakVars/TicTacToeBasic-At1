@@ -45,7 +45,7 @@ var playedMoves = [
 
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(1334, 750);
 
   play1 = createButton("")
   play1.position(100, 100)
